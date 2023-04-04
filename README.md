@@ -4,7 +4,14 @@ This sample project simulates rolling a die and displays the result. How can we 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Install Flutter on your computer: https://docs.flutter.dev/get-started/install
+
+- Open a shell, navigate to the root folder of this repository and run the following commands:
+
+flutter clean
+flutter pub get
+flutter run
+
 
 A few resources to get you started if this is your first Flutter project:
 
