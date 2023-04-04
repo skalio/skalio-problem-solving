@@ -8,10 +8,11 @@ This sample project simulates rolling a die and displays the result. How can we 
 
 - Open a shell, navigate to the root folder of this repository and run the following commands:
 
+```
 flutter clean
 flutter pub get
 flutter run
-
+```
 
 A few resources to get you started if this is your first Flutter project:
 
